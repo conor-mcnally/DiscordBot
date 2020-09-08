@@ -5,4 +5,5 @@
 
 # Two commands available:
 %quotes - Send orson welles quotes in the server.
-%gifs_ - Send orson welles gifs in the server.
+
+%gifs - Send orson welles gifs in the server.
