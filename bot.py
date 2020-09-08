@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 #Bot prefix
 BOT_PREFIX = ("%")
 
+#DONT FORGET TO ADD YOUR OWN DISCORD TOKEN AND SERVER NAME IN the .env FILE
 #Tokens to be used for bot within .env file
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
